@@ -30,6 +30,13 @@ Os Games States foram:
  
  > O mais importante foi manter as responsabilidades de cada classe e usar os conceitos de OOP para o desenvolvimento.
  
+ ---
+ 
+ ![image](https://user-images.githubusercontent.com/51142291/80421627-2769f380-88b3-11ea-8246-78358cc0bb96.png)
+ 
+ ---
+ 
+ 
  __README em desenvolvimento__
  
  ## 📍 Dificuldades:
